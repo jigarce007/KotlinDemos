@@ -1,11 +1,11 @@
-package com.ktln.KotlinBasics.codingchallenges
+package com.ktln.kotlinbasics.codingchallenges
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
 import androidx.databinding.DataBindingUtil
-import com.ktln.KotlinBasics.R
-import com.ktln.KotlinBasics.databinding.ActivityCcDatabindingBinding
+import com.ktln.kotlinbasics.R
+import com.ktln.kotlinbasics.databinding.ActivityCcDatabindingBinding
 
 
 class DataBindingCCActivity : AppCompatActivity() {

@@ -1,10 +1,10 @@
-package com.ktln.KotlinBasics.databinding
+package com.ktln.kotlinbasics.databinding
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.databinding.DataBindingUtil
-import com.ktln.KotlinBasics.R
-import com.ktln.KotlinBasics.databinding.ActivityMainBinding
+import com.ktln.kotlinbasics.R
+import com.ktln.kotlinbasics.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
     private lateinit var binding : ActivityMainBinding
