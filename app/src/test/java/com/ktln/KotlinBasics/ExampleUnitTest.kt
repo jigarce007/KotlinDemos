@@ -1,4 +1,4 @@
-package com.ktln.databindingdemo
+package com.ktln.KotlinBasics
 
 import org.junit.Test
 
