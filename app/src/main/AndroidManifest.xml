@@ -18,6 +18,10 @@
         </activity>
 
         <activity android:name="com.ktln.kotlinbasics.databinding.objectdatabinding.ObjectDataBindingActivity">
+
+        </activity>
+
+        <activity android:name="com.ktln.kotlinbasics.viewmodel.ViewModelActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
