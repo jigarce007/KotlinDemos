@@ -21,6 +21,5 @@ class MainActivity : AppCompatActivity() {
             tvGreet.text = "Hello  "+etName.text+" ,Welcome to Kotlin."
         }
 
-
     }
 }
