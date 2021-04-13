@@ -15,7 +15,7 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
-
+    //Greetings
     private fun greetMe(){
         binding.apply {
             tvGreet.text = "Hello  "+etName.text+" ,Welcome to Kotlin."
